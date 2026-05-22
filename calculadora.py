@@ -12,4 +12,7 @@ def division(a, b):
         return "Error: División por cero"
     return a / b
 
+def potencia(a, b):
+    return a ** b
+
 print("Calculadora iniciada")
